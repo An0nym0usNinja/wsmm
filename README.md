@@ -4,6 +4,12 @@
 node v21^
 npm v10^
 
+## Node version manager
+If you have node version manager (nvm) installed, there's no need for the above requirements.
+Just run the following:
+1. nvm install 18
+2. nvm use 18
+
 ## Commands
 npm install
 node migrate.js
