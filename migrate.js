@@ -21,7 +21,7 @@ const files = [
   `03-drop-content-types.js`,
 
   // Create content types
-  `04-create-product-section.js`,
+  `04-create-page.js`,
 ]
 
 // run all migrations one after the other - skips to the next if error occurs
